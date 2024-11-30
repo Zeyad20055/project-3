@@ -1,0 +1,75 @@
+header {
+    height: 60px;
+  
+    position: relative;
+    z-index: 5;
+}
+
+.navbar-brand {
+
+    text-shadow: 9px 2px 8px blue;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 50px;
+    color: aliceblue
+}
+
+.navbar-nav {
+    margin-left: 80px;
+}
+
+.nav-item {
+    margin-left: 60px;
+    text-shadow: 4px 2px 3px blue;
+
+}
+
+.clock {
+    position: relative;
+    z-index: 4;
+    top: 200px;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    text-shadow: 4px 2px 3px blue;
+    width: 100%;
+}
+
+.carousel-inner {
+    margin-top: -140px;
+}
+
+/*------------------------------------------------*/
+
+
+.add-to-cart {
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+.border {
+    width: 150px;
+    height: 7px;
+    background-color: rgb(12, 118, 171);
+    border-radius: 50%;
+    margin-top: 50px;
+    margin: 0px auto;
+
+
+}
+
+h5{
+   font-size: 26px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/*-------------------------------------------*/
+.btn:hover {
+    background-color:cadetblue;
+
+}
